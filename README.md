@@ -20,3 +20,5 @@ Merhaba! Ben Begüm, Bilgisayar Mühendisliği 2. sınıf öğrencisiyim. Bu dep
 > "Her büyük kod satırı, tek bir 'Merhaba Dünya' ile başlar." 💻
 
 _Bu dosya, ben kendimi geliştirdikçe güncellenmeye devam edecektir._
+
+* 07.07.2026: İkinci gün adımı başarıyla tamamlanıyor, projeyi yerel bilgisayarıma indirdim!
